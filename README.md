@@ -1,8 +1,6 @@
 # League-of-Legends-Win-LGM
 Code and Data for predicting wins in League Of Legends
 
-Pictures folder includes the pictures used in my blog.
-
 high_diamond_ranked_10min is the original data frame taken from kaggle.com
 
 League_win_model is the jupyter notebook/code for cleaning the data and creating a model
